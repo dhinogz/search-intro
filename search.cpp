@@ -18,6 +18,7 @@ int simpleSearch(vector<int> &vec, int searchData)
 	return -1;
 }
 
+// prints out vector
 void print(vector<int> &vec)
 {
 	for (int i=0; i<vec.size(); i++){
